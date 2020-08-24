@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to srknr prof
 
-You can use the [editor on GitHub](https://github.com/srknr/srknr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is srknr.
+I write Angular, React, Python, and so on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/srknr/srknr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 ### Markdown
 
