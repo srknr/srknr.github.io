@@ -1,2 +1,2 @@
-### about
-# srknrについて
+# about page
+## srknrについて
